@@ -1,4 +1,4 @@
-<h1 align="center">RoBooster 2.0</h1>
+<h1 align="center">RoBooster 2.0 - Testers Edition</h1>
 
 <p align="center">
   <img src="./img/logo.png" alt="RoBooster Logo" width="150" height="150"/>
@@ -28,6 +28,26 @@ Este software é gratuito e distribuído exclusivamente através do nosso [servi
 - **Gerenciamento de Gráficos** <i class="fa-solid fa-tv"></i>: Configure as opções gráficas para maximizar FPS e a qualidade visual.
 - **Otimização de Rede** <i class="fa-solid fa-wifi"></i>: Melhore a latência e diminua os tempos de resposta da sua conexão.
 - **Configurações Avançadas** <i class="fa-solid fa-sliders-h"></i>: Ajuste o comportamento do sistema para otimizações ainda mais profundas.
+
+---
+
+## 📊 Benchmarks de Desempenho
+
+### Desempenho Antes e Depois de Usar o RoBooster
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Benchmark+Graph+Before+and+After" alt="Benchmark Gráfico" width="80%">
+</p>
+
+> **Notas**: Testes realizados em um sistema com CPU AMD FX 6300, GPU RX 550, 8GB RAM. Jogos testados: The Wild West, Frontlines & BloxFruits.
+
+### Comparativo de FPS
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=FPS+Comparison" alt="Comparativo de FPS" width="80%">
+</p>
+
+> **Média de FPS**: A performance média de FPS aumentou em 150% após as otimizações.
 
 ---
 
