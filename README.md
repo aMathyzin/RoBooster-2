@@ -1,2 +1,64 @@
-# RoBooster-2
-The best Roblox Optimizer. Works better with BloxStrap
+# RoBooster 2.0 - Testers Edition
+
+![RoBooster Logo](./img/logo.png)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="Version">
+    <img src="https://img.shields.io/badge/status-in%20development-orange.svg" alt="Status">
+    <img src="https://img.shields.io/badge/license-proprietary-red.svg" alt="License">
+</p>
+
+## 🚀 Sobre o RoBooster
+
+**RoBooster** é uma ferramenta avançada de otimização para Roblox, desenvolvida pelo **Grupo aMathyzin**. Com o RoBooster, você pode melhorar o desempenho do seu jogo, reduzir latências e ajustar configurações avançadas de forma prática e eficiente. 
+
+Este software é gratuito e distribuído exclusivamente através do nosso [servidor no Discord](https://amathyzin.tech/discord).
+
+## 📦 Funcionalidades
+
+- **Otimização de Desempenho** <i class="fa-solid fa-bolt"></i>: Inicialize o Roblox com boosts de desempenho e desative serviços que afetam a performance.
+- **Gerenciamento de Gráficos** <i class="fa-solid fa-tv"></i>: Configure as opções gráficas para maximizar FPS e a qualidade visual.
+- **Otimização de Rede** <i class="fa-solid fa-wifi"></i>: Melhore a latência e diminua os tempos de resposta da sua conexão.
+- **Configurações Avançadas** <i class="fa-solid fa-sliders-h"></i>: Ajuste o comportamento do sistema para otimizações ainda mais profundas.
+
+## 🔧 Como Instalar
+
+1. Acesse o nosso [servidor no Discord](https://amathyzin.tech/discord) para baixar o RoBooster.
+2. Extraia o conteúdo do arquivo baixado em uma pasta de sua escolha.
+3. Execute o `RoBooster.exe` e siga as instruções na tela.
+
+## 🛠️ Requisitos
+
+- **Sistema Operacional:** Windows 7 ou superior
+- **Memória RAM:** 4 GB ou mais
+- **Processador:** Dual-core 2.0 GHz ou superior
+- **Espaço em Disco:** 100 MB de espaço disponível
+
+## 📋 Licença
+
+Este software é licenciado sob uma [Licença Proprietária](./LICENSE). A distribuição é permitida apenas se os créditos ao **Grupo aMathyzin** forem mantidos e o download for realizado exclusivamente através do [nosso servidor no Discord](https://amathyzin.tech/discord). Modificações, redistribuições, ou vendas não autorizadas são estritamente proibidas. Para mais detalhes, consulte a [licença completa](./LICENSE).
+
+## ❗ Aviso de Responsabilidade
+
+O **Grupo aMathyzin** não se responsabiliza por qualquer uso indevido do software, como a sua utilização para injetar cheats, ou por problemas decorrentes de erros por parte do usuário.
+
+## 📞 Contato
+
+- **Discord:** [Grupo aMathyzin](https://amathyzin.tech/discord)
+- **YouTube:** [Canal aMathyzin](https://youtube.com/@amathyzin)
+- **Email:** amathyzin@amathyzin.tech
+
+## 🌟 Créditos
+
+- **Desenvolvedor Principal:** aMathyzin
+- **Integração com Autonet:** Miguélin
+- **Design e Otimizações:** aMathyzin
+
+<p align="center">
+    <a href="https://amathyzin.tech/discord" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://youtube.com/@amathyzin" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+</p>
