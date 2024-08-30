@@ -1,4 +1,4 @@
-<h1 align="center">RoBooster 2.0 - Testers Edition</h1>
+<h1 align="center">RoBooster 2.0</h1>
 
 <p align="center">
   <img src="./img/logo.png" alt="RoBooster Logo" width="150" height="150"/>
