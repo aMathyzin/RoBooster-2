@@ -1,1 +1,2 @@
 UPDATED=TRUE
+AD_URL=https://tav.animerigel.com/testetsdasdas
