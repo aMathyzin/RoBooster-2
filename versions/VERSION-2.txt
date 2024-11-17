@@ -1,3 +1,2 @@
 UPDATED=TRUE
 DOWNLOAD_LINK=https://amathyzin.com/downloads/robooster
-AD_URL=https://tav.animerigel.com/testetsdasdas
