@@ -1,2 +1,1 @@
-UPDATED=FALSE
-DOWNLOAD_LINK=https://amathyzin.com/downloads/robooster
+UPDATED=TRUE
