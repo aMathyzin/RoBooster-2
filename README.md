@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://amathyzin.tech/discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://youtube.com/@amathyzin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <img src="https://img.shields.io/badge/version-2.0-blue?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/status-in%20development-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/version-2.0.1-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/status-ready-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/license-proprietary-red?style=for-the-badge" alt="License">
 </p>
 
@@ -18,16 +18,16 @@
 
 **RoBooster** é uma ferramenta avançada de otimização para Roblox, desenvolvida pelo **Grupo aMathyzin**. Com o RoBooster, você pode melhorar o desempenho do seu jogo, reduzir latências e ajustar configurações avançadas de forma prática e eficiente.
 
-Este software é gratuito e distribuído exclusivamente através do nosso [servidor no Discord](https://amathyzin.tech/discord).
+O software está **finalizado** e a versão atual é a **2.0.1**. Ele está disponível para download diretamente no site oficial: [https://amathyzin.com/downloads/robooster2](https://amathyzin.com/downloads/robooster2).
 
 ---
 
 ## 🛠️ Funcionalidades
 
-- **Otimização de Desempenho** <i class="fa-solid fa-bolt"></i>: Inicialize o Roblox com boosts de desempenho e desative serviços que afetam a performance.
-- **Gerenciamento de Gráficos** <i class="fa-solid fa-tv"></i>: Configure as opções gráficas para maximizar FPS e a qualidade visual.
-- **Otimização de Rede** <i class="fa-solid fa-wifi"></i>: Melhore a latência e diminua os tempos de resposta da sua conexão.
-- **Configurações Avançadas** <i class="fa-solid fa-sliders-h"></i>: Ajuste o comportamento do sistema para otimizações ainda mais profundas.
+- **Otimização de Desempenho**: Inicialize o Roblox com boosts de desempenho e desative serviços que afetam a performance.
+- **Gerenciamento de Gráficos**: Configure as opções gráficas para maximizar FPS e a qualidade visual.
+- **Otimização de Rede**: Melhore a latência e diminua os tempos de resposta da sua conexão.
+- **Configurações Avançadas**: Ajuste o comportamento do sistema para otimizações ainda mais profundas.
 
 ---
 
@@ -53,7 +53,7 @@ Este software é gratuito e distribuído exclusivamente através do nosso [servi
 
 ## 📦 Instalação
 
-1. Acesse o nosso [servidor no Discord](https://amathyzin.tech/discord) para baixar o RoBooster.
+1. Acesse o site oficial para baixar o RoBooster: [https://amathyzin.com/downloads/robooster2](https://amathyzin.com/downloads/robooster2).
 2. Extraia o conteúdo do arquivo baixado em uma pasta de sua escolha.
 3. Execute o `RoBooster.exe` e siga as instruções na tela.
 
@@ -68,7 +68,7 @@ Este software é gratuito e distribuído exclusivamente através do nosso [servi
 
 ## 📋 Licença
 
-Este software é licenciado sob uma [Licença Proprietária](./LICENSE). A distribuição é permitida apenas se os créditos ao **Grupo aMathyzin** forem mantidos e o download for realizado exclusivamente através do [nosso servidor no Discord](https://amathyzin.tech/discord). Modificações, redistribuições, ou vendas não autorizadas são estritamente proibidas. Para mais detalhes, consulte a [licença completa](./LICENSE).
+Este software é licenciado sob uma [Licença Proprietária](./LICENSE). A distribuição é permitida apenas se os créditos ao **Grupo aMathyzin** forem mantidos e o download for realizado exclusivamente através do [site oficial](https://amathyzin.com/downloads/robooster2). Modificações, redistribuições, ou vendas não autorizadas são estritamente proibidas. Para mais detalhes, consulte a [licença completa](./LICENSE).
 
 ---
 
